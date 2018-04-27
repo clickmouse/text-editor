@@ -1,2 +1,2 @@
 # text-editor
-bug bug bug
+A normal text-editor
