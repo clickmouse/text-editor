@@ -3,7 +3,7 @@
 #include <string.h>
 #include <windows.h>
 #include <conio.h>
-#include"struct function.h"
+#include"function.h"
 
 int cx,cy;  //横纵坐标 
 int page;   //当前页码 
